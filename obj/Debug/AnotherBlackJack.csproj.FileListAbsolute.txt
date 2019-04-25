@@ -1,0 +1,7 @@
+C:\Users\Full Stack Day\source\repos\AnotherBlackJack\AnotherBlackJack\obj\Debug\AnotherBlackJack.csprojAssemblyReference.cache
+C:\Users\Full Stack Day\source\repos\AnotherBlackJack\AnotherBlackJack\obj\Debug\AnotherBlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Full Stack Day\source\repos\AnotherBlackJack\AnotherBlackJack\bin\Debug\AnotherBlackJack.exe.config
+C:\Users\Full Stack Day\source\repos\AnotherBlackJack\AnotherBlackJack\bin\Debug\AnotherBlackJack.exe
+C:\Users\Full Stack Day\source\repos\AnotherBlackJack\AnotherBlackJack\bin\Debug\AnotherBlackJack.pdb
+C:\Users\Full Stack Day\source\repos\AnotherBlackJack\AnotherBlackJack\obj\Debug\AnotherBlackJack.exe
+C:\Users\Full Stack Day\source\repos\AnotherBlackJack\AnotherBlackJack\obj\Debug\AnotherBlackJack.pdb
